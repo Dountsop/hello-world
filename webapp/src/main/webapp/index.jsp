@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user registry for DevOps_Project ESTIAM E4 CCSN</h1>
+    <h1>Bienvenue à ESTIAM E4 CCSN</h1>
     <h2>Please fill in this form to create your account.</h2>
     <hr>
 
